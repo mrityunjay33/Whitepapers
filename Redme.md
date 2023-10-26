@@ -59,8 +59,14 @@ TAO Graph Database: https://www.usenix.org/system/files/conference/atc13/atc13-b
 MineSweeper - Root Cause Analysis: https://arxiv.org/pdf/2010.09974.pdf
 
 Prophet - Forecasting at Scale: https://peerj.com/preprints/3190.pdf
+
 ShardManager: https://research.facebook.com/file/245575980870853/Shard-Manager-A-Generic-Shard-Management-Framework-for-Geo-distributed-Applications.pdf
+
+
 Apache
+
 Hadoop File System: https://storageconference.us/2010/Papers/MSST/Shvachko.pdf
+
 Kafka Event Bus: https://notes.stephenholiday.com/Kafka.pdf
+
 Flink: https://asterios.katsifodimos.com/assets/publications/flink-deb.pdf
